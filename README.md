@@ -11,3 +11,16 @@
 - Looping
 - Exception handling
 - *throw* and *catch*
+
+## Standard Types
+- Booleans
+- Integer and floating point numbers
+- Strings
+- String Operators and Methods
+- Regular expresions
+- Symbols
+- Arrays
+- Enumerable
+- Hashes
+- Ranges
+- Parallel assignment
