@@ -24,3 +24,12 @@
 - Hashes
 - Ranges
 - Parallel assignment
+
+## Methods in Depth
+- Default Parameter Values
+- Variable Length Parameter Lists
+- Keyword Arguments
+- Method Aliasing
+- Operators
+- Method Calls as Messages
+- method_missing
